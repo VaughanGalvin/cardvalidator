@@ -6,16 +6,16 @@
 
 На тестирование затрачено: 0,25 часа
 
-В результате тестирования выявлены следующие дефекты: https://github.com/VaughanGalvin/cardvalidator/issues/1#issue-784415674
+В результате тестирования выявлены [следующие дефекты](https://github.com/VaughanGalvin/cardvalidator/issues/1#issue-784415674).
 
 # Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
 * баг-репорт
 
-В качестве тестовых данных использовались данные из:
-* код из репозитория https://github.com/netology-code/javaqa-homeworks/tree/master/intro
-* триальные карты с https://bcoll.ru/19000-lyuboj-nomer-karty/
+В качестве тестовых данных использовались данные:
+* код из [репозитория](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
+* [триальные карты](https://bcoll.ru/19000-lyuboj-nomer-karty/)
 
 Тестирование производилось в следующем окружении:
 
